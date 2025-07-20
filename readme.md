@@ -23,10 +23,3 @@ An object-oriented in-memory file system in C++, involving design principles and
 | Composite     | `FileNode` is the base interface for both `Directory` and `File`|
 | Singleton     | `FileSystem` instance is globally accessible                    |
 | RAII / Smart Pointers | Uses `unique_ptr` for memory-safe tree structure         |
-
----
-
-## 🗃️ File Structure
-
-├── FileSystem.cpp   # Main implementation
-└── README.md        # This file
