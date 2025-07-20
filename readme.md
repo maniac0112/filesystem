@@ -1,6 +1,6 @@
 # 🗂️ In-Memory File System
 
-An object-oriented in-memory file system in C++, inspired by UNIX-like directory hierarchies. This project demonstrates practical usage of design principles and patterns including **Composite**, **Singleton**, and **Smart Pointers (RAII)**.
+An object-oriented in-memory file system in C++, involving design principles and patterns like - **Composite**, **Singleton**, and **Smart Pointers (RAII)**.
 
 ---
 
@@ -27,6 +27,6 @@ An object-oriented in-memory file system in C++, inspired by UNIX-like directory
 ---
 
 ## 🗃️ File Structure
-.
+
 ├── FileSystem.cpp   # Main implementation
 └── README.md        # This file
